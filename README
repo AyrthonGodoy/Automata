@@ -1,0 +1,23 @@
+========== Modo de usar ==========
+
+1. Si lo hiciste en Java, C o C++, compila tu programa
+
+2. En una terminal, ingrese al directorio de tests
+
+3. Ejecuta el script grade 
+
+   3.1 Si lo hiciste en C/C++
+   
+prompt> grade programa_compilado
+
+   3.2 Si lo hiciste en Java
+
+prompt> grade java TuClaseMain
+
+   3.3 Si lo hiciste en y creaste el .jar
+
+prompt> grade java -jar TuPrograma.jar
+
+   3.4 Si lo hiciste en Python
+
+prompt> grade python tu_programa.py
